@@ -1,5 +1,5 @@
 {
-  "name": "localstack-app",
+  "name": "node-docker-local-stack-app",
   "version": "1.0.0",
   "description": "https://blog.devops.dev/using-localstack-with-nodejs-and-aws-sdk-4b111e2e6bd",
   "scripts": {
@@ -7,6 +7,6 @@
   },
   "author": "",
   "dependencies": {
-    "aws-sdk": "^2.7.0"
+    "aws-sdk": "^2.7.0" 
   }
 }
