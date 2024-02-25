@@ -1,0 +1,1 @@
+# node-docker-local-stack-app
